@@ -1,0 +1,13 @@
+UNIXメモ
+・100pまでのディレクトリ移動メモ
+c/Users/ranma/PycharmProjects/pythonr/100p
+
+
+・Python３でpyを動かす
+python3 ー.py
+
+・現在どのディレクトリにいるのか
+pwd
+
+argv コマンドライン引数
+unix側から入力した値に対応する
